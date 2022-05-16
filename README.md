@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cole.
-- 👀 I’m interested in agriculture, economics, finance, and fitness.
+- 👀 I’m interested data science in agriculture, economics, finance, and fitness.
 - 🌱 I am a recent graduate of Springboard's Data Science program, and am currently looking for roles in data science and analytics.
 
 <!---
